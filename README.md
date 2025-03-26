@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Client Portal<br>🌱 I’m currently learning GraphQL<br>👨‍💻 All of my projects are available at https://seifeldin.vercel.app/<br>📝 I regularly write articles on https://www.linkedin.com/in/seif-eldin-sameh/<br>💬 Ask me about react, next, GSAP, tailwind CSS<br>📫 How to reach me, seiffsameh00@gmail.com<br>📄 Know about my experiences https://seifeldin.vercel.app/<br>⚡ Fun fact, I think I am good at coding
+🔭 I’m currently working on Updating my portfolio<br>🌱 I’m currently learning GraphQL<br>👨‍💻 All of my projects are available at https://seifeldin.vercel.app/<br>📝 I regularly write articles on https://www.linkedin.com/in/seif-eldin-sameh/<br>💬 Ask me about react, next, GSAP, tailwind CSS<br>📫 How to reach me, seiffsameh00@gmail.com<br>📄 Know about my experiences https://seifeldin.vercel.app/<br>⚡ Fun fact, I think I am good at coding
 
 
 ## 🌐 Socials:
